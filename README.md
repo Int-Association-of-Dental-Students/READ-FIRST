@@ -14,7 +14,8 @@ This GitHub repository serves as a centralized hub for collaboration and version
 ### For Non-Technical Users
 
 📂 **Treating it like Google Drive:**
-- Feel free to upload and download documents, images, and other resources.
+- Treat the term "repository" like a folder.
+- Feel free to create repositories, upload and download documents, images, and other resources.
 - **Caution:** When adding sensitive information like logins and passwords directly here. Use private repositories accessible only by members for such documentation.
 
 ### For Technical Enthusiasts
