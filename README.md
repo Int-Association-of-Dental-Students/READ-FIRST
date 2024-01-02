@@ -18,7 +18,7 @@ This GitHub repository serves as a centralized hub for collaboration and version
 - Feel free to create repositories, upload and download documents, images, and other resources.
 - **Caution:** When adding sensitive information like logins and passwords directly here. Use private repositories accessible only by members for such documentation.
 
-### For Technical Enthusiasts
+### For Technical Contributors
 
 🌐 **Latest Live Deployments:**
 - Our repositories contain the latest live deployments of our applications and websites.
